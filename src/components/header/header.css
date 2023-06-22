@@ -1,0 +1,33 @@
+.header{
+    margin-top: 60px;
+
+}
+.headerTitles{
+    display: flex;
+    flex-direction:column;
+    align-items:center;
+    color: #333;
+    font-family: 'Lora', serif;
+    
+}
+.headerTitleSm{
+    font-size: 20px;
+    position: absolute;
+    top: 10%;
+
+}
+.headerTitleLg{
+    font-size: 80px;
+    position: absolute;
+    top: 12.8%;
+    
+}
+.headerImg{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 30px;
+    right:0;
+    
+    
+}
